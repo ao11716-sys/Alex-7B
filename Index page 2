@@ -11,5 +11,27 @@
     <p>One of the most common Xmas<b>(Christmas)</b> traditions is decorating a fir or spruce tree.<br>
 People do this because Xmas is originally a Christian tradition celebrating the birth of Jesus Christ the son of God.<br>When decorated the tree symbolizes eternal life, spiritual hope, and family connection.</p>
 
+
+
+
+
+body {
+    background-color: #fd0000; /* Very light grey */
+}
+
+/* Style for all paragraphs */
+p {
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+    font-family: 'Times New Roman', serif;
+}
+
+/* Style for the main heading */
+h1 {
+    text-align: center; /* Puts the heading in the middle */
+    border: 2px solid rgb(0, 236, 0); /* Adds an orange border around the heading */
+    padding: 10px; /* Adds space inside the border */
+
+
 </body>
 </html>
