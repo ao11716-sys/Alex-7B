@@ -6,11 +6,35 @@
     <title>My Cool Page Title</title>
 </head>
 <body>
- <h1>Decorating a tree</b></h1>
+ 
+<h1><b>Leaving carrots and milk for Santa and his 7 reindeer</b></h1>
 
-    <p>One of the most common Xmas<b>(Christmas)</b> traditions is decorating a fir or spruce tree.<br>
-People do this because Xmas is originally a Christian tradition celebrating the birth of Jesus Christ the son of God.<br>When decorated the tree symbolizes eternal life, spiritual hope, and family connection.</p>
+    <p>The final tradition of the day is leaving carrots and milk for Santa and his 7 reindeer. People do this for Santa as a gesture of gratitude for his hardwork,a way to teach children about giving,and a tradition rooted in historical gift-giving customs.</p>
+<h1><b>Top three's</b></h1>
 
+<h2>Top three christmas song's of all time.</h2>
+
+<ol><li>'All I Want for Christmas Is You' by Maraiah Carey<i>(1994)</i>.</li>
+     <li>'Underneath the Tree' by Kelly Clarkson.<i>(2013)</i></li>
+     <li>'Last Christmas' by Wham!<i>(1984)</i></li></ol>
+
+
+<h2>Top three christmas movie's of all time </h2>
+
+    <ol><li>'It's a Wonderful Life' made in <i>1946.</i> </li>
+        <li>'Home Alone' made in <i>1990.</i></li>
+        <li>'A Christmas Story' made in <i>1983.</i> </li>
+    </ol>
+<h2>Top three christmas characters of all time </h2>
+
+    <ol><li>'The Grinch: The ultimate Christmas villain-turned-hero from <i>How the Grinch Stole Christmas.</i> </li> 
+        <li>'Buddy the Elf: Will Ferrell's earnest, oversized elf from <i>Elf.</i> </li> 
+        <li>'Kevin McCallister: Macaulay Culkin's clever protagonist in <i>Home Alone.</i> </li> 
+   </ol> 
+    
+</body>
+</html>
+    
 </body>
 </html>
 
