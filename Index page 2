@@ -6,32 +6,16 @@
     <title>My Cool Page Title</title>
 </head>
 <body>
- <h1>Decorating a tree</b></h1>
+ <h1><b>Singing carols</b></h1>
+   
+    <p>An additional Xmas tradition is singing carols.Often sung beetween the 25th of December (Christmas) day and January 5th Christmas carols are sung to tell the story of Nativity,to share the spirit of the holiday, to connect with one another through a shared tradition<br>and to spread joy during the festive season.
+It's a great way to start the holidays and get the festive spirit going!</p>
 
-    <p>One of the most common Xmas<b>(Christmas)</b> traditions is decorating a fir or spruce tree.<br>
-People do this because Xmas is originally a Christian tradition celebrating the birth of Jesus Christ the son of God.<br>When decorated the tree symbolizes eternal life, spiritual hope, and family connection.</p>
+    <h2><b>Hanging stockings</b></h2>
 
+<p>The penultimate tradition of this presentation is hanging stockings peoeple hang stockings because of the legend of St. Nicholas, a generous bishop who secretly dropped bags of gold into the stockings of a poor family to help their three daughters.
+The tradition later grew and children started to hang thier own stockings in the hopes of him or Father Christmas to drop gifts in their stocking too.</p>
 
+<h2><b>Leaving carrots and milk for Santa and his 7 reindeer</b></h2>
 
-
-
-body {
-    background-color: #fd0000; /* Very light grey */
-}
-
-/* Style for all paragraphs */
-p {
-    color: rgb(255, 255, 255);
-    font-size: 34px;
-    font-family: 'Times New Roman', serif;
-}
-
-/* Style for the main heading */
-h1 {
-    text-align: center; /* Puts the heading in the middle */
-    border: 2px solid rgb(0, 236, 0); /* Adds an orange border around the heading */
-    padding: 10px; /* Adds space inside the border */
-
-
-</body>
-</html>
+    <p>The final tradition of the day is leaving carrots and milk for Santa and his 7 reindeer. People do this for Santa as a gesture of gratitude for his hardwork,a way to teach children about giving,and a tradition rooted in historical gift-giving customs.</p>
