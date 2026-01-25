@@ -1,5 +1,5 @@
 body {
-    background-color: #fd0000; /* Very light grey */
+    background-color: #ff0000; /* Red */
 }
 
 /* Style for all paragraphs */
@@ -12,6 +12,9 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid rgb(0, 236, 0); /* Adds an orange border around the heading */
+    border: 2px solid rgb(51, 255, 0); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
-    
+
+h2 {
+        Color: rgb(250, 246, 246)
+     }
